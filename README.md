@@ -38,8 +38,8 @@
 ![image](https://github.com/user-attachments/assets/a068b911-f0c8-4e49-a352-36e1f64bc570)
  
 
-### Name:Sharma R
-### Register Number: 212224230261
+### Name:MOHANRAJ R
+### Register Number: 212224230169
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
